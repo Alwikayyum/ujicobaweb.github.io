@@ -1,0 +1,161 @@
+body{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans';
+    background: rgb(214, 213, 213);
+  }
+  .bagianSatu {
+    padding-top: 100px;
+    padding-bottom: 60px;
+  }
+  .container {
+    width: 980px;
+    margin: 0 auto;
+    float: none;
+    overflow: inherit;
+  }
+  .row {
+    margin-left: -9px;
+    margin-right: -9px;
+    display: flex;
+  }
+  .keteranganSatu {
+    margin-top: 150px;
+    margin-left: 30px;
+    width: 50%;
+  }
+  #judulKeteranganSatu {
+    color: #0F85C6;
+    font-size: 40px;
+    font-weight: 300;
+    margin-bottom: 15px;
+    padding: 0;
+    margin: 0;
+    font-weight: 400px;
+  }
+  #isiKeteranganSatu {
+    font-size: 18px;
+    font-weight: 300;
+    color: #666;
+    line-height: 25px; 
+    margin-right: 30px;
+    text-align: justify;
+  }
+  #linkSatu {
+      font-size: 12px;
+      font-weight: 600;
+      color: #0F85C6;
+      text-decoration: none;
+  }
+  #linkSatu:hover{
+      font-size: 12px;
+      font-weight: 600;
+      color: #ffffff;
+      background: #0F85C6;
+  }
+  .gambarSatu {
+    border: none;
+    text-decoration: none;
+    width: 50%;
+    margin-left: 50px;
+  }
+  
+  
+  .bagianDua {
+    padding-bottom: 60px;
+  }
+  .keteranganDua {
+    margin-top: 20px;
+    width: 50%;
+  }
+  #judulKeteranganDua {
+    color: #0F85C6;
+    font-size: 40px;
+    font-weight: 300;
+    margin-bottom: 15px;
+    padding: 0;
+    margin: 0;
+    font-weight: 400px;
+  }
+  #isiKeteranganDua {
+    font-size: 18px;
+    font-weight: 300;
+    color: #666;
+    line-height: 25px; 
+    text-align: justify;
+  }
+  #linkDua {
+      font-size: 12px;
+      font-weight: 600;
+      color: #0F85C6;
+      text-decoration: none;
+  }
+  #linkDua:hover{
+      font-size: 12px;
+      font-weight: 600;
+      color: #ffffff;
+      background: #0F85C6;
+  }
+  .gambarDua {
+    border: none;
+    text-decoration: none;
+    width: 50%;
+    margin-right: 30px;
+  }
+  
+  
+  
+  .bagianTiga {
+    padding-bottom: 60px;
+  }
+  .keteranganTiga {
+    margin-top: 100px;
+    margin-left: 30px;
+    width: 50%;
+    
+  }
+  #judulKeteranganTiga {
+    color: #0F85C6;
+    font-size: 40px;
+    font-weight: 300;
+    margin-bottom: 15px;
+    padding: 0;
+    margin: 0;
+    font-weight: 400px;
+  }
+  #isiKeteranganTiga {
+    font-size: 18px;
+    font-weight: 300;
+    color: #666;
+    line-height: 25px; 
+    margin-right: 30px;
+    text-align: justify;
+  }
+  #linkTiga {
+      font-size: 12px;
+      font-weight: 600;
+      color: #0F85C6;
+      text-decoration: none;
+  }
+  #linkTiga:hover{
+      font-size: 12px;
+      font-weight: 600;
+      color: #ffffff;
+      background: #0F85C6;
+  }
+  .gambarTiga {
+    border: none;
+    text-decoration: none;
+    width: 50%;
+    margin-left: 110px;
+  }
+  
+  
+  .bagianEmpat {
+    padding-bottom: 60px;
+  }
+  #isiBagianEmpat {
+    text-align: center;
+    font-weight: bold;
+  }
